@@ -1,0 +1,8 @@
+{
+    "kata1" : "Hello World",
+    "kata2" : "My name is {name} i work in {workPlace}",
+    "gender" :{
+        "male" : "iam man",
+        "female" : "iam ladies"
+    }
+}

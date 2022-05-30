@@ -1,0 +1,8 @@
+{
+    "kata1" : "Hallo Dunia",
+    "kata2" : "Nama saya {name} Saya bekerja di {workPlace}",
+    "gender" :{
+        "male" : "Saya seorang pria",
+        "female" : "Saya wanita yang cantik"
+    }
+}
